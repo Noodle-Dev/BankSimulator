@@ -10,6 +10,7 @@ public class App {
         mostrarMenu();
         int option = sc.nextInt();
         
+        //Esccojer
         while(option != 5){
             switch(option){
                 case 1:
@@ -113,6 +114,7 @@ public class App {
         }
     }
 
+    //Cambiar el idioma de ejecucion
     public static void cambiarIdioma(){
         spanish = !spanish;
         System.out.println(spanish ? 
@@ -124,5 +126,7 @@ public class App {
         System.out.println(spanish ? 
             "Gracias por usar nuestro servicio. ¡Hasta luego!" : 
             "Thank you for using our service. Goodbye!");
+
+        System.exit(0);
     }
 }
