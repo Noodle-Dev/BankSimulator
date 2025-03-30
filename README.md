@@ -5,14 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Bank simulator project made for university. A Java application that simulates basic banking operations.
-
-##Features
-
-- Account management (create, delete, view)
-- Transaction simulation (deposits, withdrawals, transfers)
-- Account statements and transaction history
-- Balance tracking and interest calculation
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+[Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ### Prerequisites
 - Java 17 or higher
