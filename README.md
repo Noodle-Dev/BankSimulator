@@ -7,7 +7,7 @@
 Bank simulator project made for university. A Java application that simulates basic banking operations
 
 ### Prerequisites
-- Java 17 or higher
+- Java XD
 
 ### Installation
 1. Clone the repository:
