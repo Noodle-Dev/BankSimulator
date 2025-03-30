@@ -4,8 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-Bank simulator project made for university. A Java application that simulates basic banking operations.
-[Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+Bank simulator project made for university. A Java application that simulates basic banking operations
 
 ### Prerequisites
 - Java 17 or higher
